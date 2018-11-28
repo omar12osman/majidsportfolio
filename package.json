@@ -1,0 +1,26 @@
+{
+  "name": "majidsportfolio",
+  "version": "1.0.0",
+  "description": "new porfolio",
+  "main": "index.js",
+  "dependencies": {
+    "node-sass": "^4.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omar12osman/majidsportfolio.git"
+  },
+  "keywords": [
+    "M"
+  ],
+  "author": "Majid Osman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/omar12osman/majidsportfolio/issues"
+  },
+  "homepage": "https://github.com/omar12osman/majidsportfolio#readme"
+}
